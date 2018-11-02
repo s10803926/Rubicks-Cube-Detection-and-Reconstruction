@@ -6,4 +6,4 @@ Solving Rubric cube sequence of steps performed in the Algorithm Developed:
 4. From the 3D model of the cube get the current position of the cube
 5. Then with the current cube state as the start state and the solved cube as the goal state output all the moves which desrcibe the state of the cube into a text file.
 6. Then use this information to simulate the solving of cube using a GUI
-[![Rubiks Cube Recognition]()]
+[![Rubiks Cube Recognition](https://github.com/sbperceptron/Rubicks-Cube-Detection-and-Reconstruction/blob/master/rubiks%20project.PNG)]
