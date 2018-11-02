@@ -1,5 +1,5 @@
 # Rubiks-Cube-Detection-and-Reconstruction
-Solving Rubric cube sequence of steps:
+Solving Rubric cube sequence of steps performed in the Algorithm Developed:
 1. Recognize each face of the Rubiks cube
 2. Identify the colors on all faces of the cube
 3. Construct the 3D model of the rubiks cube 
